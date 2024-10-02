@@ -26,7 +26,7 @@ Currently, I'm building side projects for fun - terminal apps, tiny simple serve
 
 ### Contacts
 
-[GitHub](https://github.com/75asu) | [LinkedIn](https://www.linkedin.com/in/75asu) | [Email](mailto:asutosh.pda@gmail.com) | [Resume](https://drive.google.com/file/d/1ifJX0PeeP9APSDnqLOA4C527ZwdtQo8U/view?usp=sharing)
+[GitHub](https://github.com/75asu) | [LinkedIn](https://www.linkedin.com/in/75asu) | [Email](mailto:asutosh.pda@gmail.com) | [Resume](https://drive.google.com/file/d/1GF-JgK3q4zA50aGfqbkKSx8PfZw3dorx/view?usp=sharing)
 
 
 ---
