@@ -24,6 +24,11 @@ Currently, I'm checking out MLOps.
 
 - **[Frontend Gallery](https://github.com/exitAsutosh/frontend-gallery)**: A collection of web projects built with HTML, CSS, and JavaScript.
 
+### By the way
+
+- I teach UG students full-stack software development during summer and winter in our local college, it's fun though.
+- By far I am done with 3 batches in 3 years, many more to come
+
 
 ### Contacts
 
