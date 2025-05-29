@@ -2,11 +2,9 @@
 title: Home
 ---
 
-# Asutosh Panda
-
 ## Hey, I'm Asutosh 👋
 
-Known in the tech wildlands as `75asu`. I'm a software engineer, a DevOps tinkerer, a Go enthusiast, and your friendly neighborhood automation wizard. Been building stuff for 5 years — and breaking things (intentionally!) to learn faster.
+You can find me as `75asu` in the internet. I'm a software engineer, a DevOps tinkerer, a Go enthusiast, and your friendly neighborhood automation wizard. Been building stuff for 5 years — and breaking things (intentionally!) to learn faster.
 
 ## 🔧 My Superpowers
 
