@@ -6,7 +6,7 @@ title: Home
 
 ## About Me
 
-I'm Asutosh Panda, known as `75asu` around the internet, a software engineer who loves tinkering with Golang, MERN, Backend, and DevOps. It's been 4 years since the journey started.
+I'm Asutosh Panda, known as `75asu` around the internet, a software engineer who loves tinkering with Golang, MERN, Backend, and DevOps. It's been 5 years since the journey started.
 
 ### What I Do Best 
 
@@ -14,7 +14,7 @@ Automation, CI/CD, Monitoring and Observability are my daily bread and butter.
 
 ### Latest Obsession 
 
-Currently, I'm building side projects for fun - terminal apps, tiny simple servers and other apps using Go .
+Currently, I'm checking out MLOps.
 
 ### Projects
 
@@ -22,7 +22,8 @@ Currently, I'm building side projects for fun - terminal apps, tiny simple serve
 
 - **[DevOps Gallery](https://github.com/exitAsutosh/devops-gallery)**: A showcase of real-world DevOps scenarios that demonstrate the power of collaboration. 
 
-- **[Frontend Gallery](https://github.com/exitAsutosh/frontend-gallery)**: A collection of web projects built with HTML, CSS, and JavaScript. 
+- **[Frontend Gallery](https://github.com/exitAsutosh/frontend-gallery)**: A collection of web projects built with HTML, CSS, and JavaScript.
+
 
 ### Contacts
 
