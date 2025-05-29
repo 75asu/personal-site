@@ -14,7 +14,7 @@ Automation, CI/CD, Monitoring and Observability are my daily bread and butter.
 
 ### Latest Obsession 
 
-Currently, I'm checking out MLOps.
+Currently, I'm into GitOps and MLOps.
 
 ### Projects
 
