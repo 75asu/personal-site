@@ -4,37 +4,44 @@ title: Home
 
 # Asutosh Panda
 
-## About Me
+## Hey, I'm Asutosh 👋
 
-I'm Asutosh Panda, known as `75asu` around the internet, a software engineer who loves tinkering with Golang, Python, MERN, and DevOps. It's been 5 years since the journey started.
+Known in the tech wildlands as `75asu`. I'm a software engineer, a DevOps tinkerer, a Go enthusiast, and your friendly neighborhood automation wizard. Been building stuff for 5 years — and breaking things (intentionally!) to learn faster.
 
-### What I Do Best 
+## 🔧 My Superpowers
 
-Automation, CI/CD, Monitoring and Observability are my daily bread and butter. 
+- **Automation**: I make machines do the boring work — faster, better, forever.
+- **CI/CD Pipelines**: Shipping code like it’s on a conveyor belt.
+- **Monitoring & Observability**: I see dead servers... before they die.
 
-### Latest Obsession 
+## 🎯 Currently Hooked On
 
-Currently, I'm into GitOps and MLOps.
+- **GitOps**: Because manual configs are sooo last season.
+- **MLOps**: Gluing machine learning to reality — one pipeline at a time.
 
-### Projects
+## 🚀 Project Zones
 
-- **[DevOps Gallery](https://github.com/exitAsutosh/devops-gallery)**: A showcase of real-world DevOps scenarios that demonstrate the power of collaboration.
+- **[DevOps Gallery](https://github.com/exitAsutosh/devops-gallery)**: Real-world DevOps scenarios — less theory, more chaos-taming.
+- **[Go Gallery](https://github.com/exitAsutosh/go-gallery)**: Micro projects in Go — built for speed and clarity.
+- **[Frontend Gallery](https://github.com/exitAsutosh/frontend-gallery)**: Because pretty UIs matter too (and I respect CSS warriors).
 
-- **[Go Gallery](https://github.com/exitAsutosh/go-gallery)**: Simple and efficient mini-projects in Go 
+## 🎓 Teaching Bytes
 
-- **[Frontend Gallery](https://github.com/exitAsutosh/frontend-gallery)**: A collection of web projects built with HTML, CSS, and JavaScript.
+I run full-stack bootcamps for college students during summers and winters.  
+Three batches done, many more queued. Students call it fun. I call it **code therapy**.
 
-### By the way
+> Want to join or collaborate on a session? Ping me. I don’t bite (unless your code is `chmod 777` everywhere 😅).
 
-- I teach UG students full-stack software development during summer and winter in our local college, it's fun though.
-- By far I am done with 3 batches in 3 years, many more to come
+## 🤝 Consulting & Collabs
 
+Startups, solopreneurs, small teams — if you’re building something cool and need help with DevOps, automation, or scaling your infra without melting your wallet, I’m all ears (and scripts).  
+Let’s chat — I might just be the caffeine your project needs.
 
-### Contacts
+## 📬 Reach Me
 
 [GitHub](https://github.com/75asu) | [LinkedIn](https://www.linkedin.com/in/75asu) | [Email](mailto:asutosh.pda@gmail.com) | [Resume](https://drive.google.com/file/d/1GF-JgK3q4zA50aGfqbkKSx8PfZw3dorx/view?usp=sharing)
 
-
 ---
 
-© 2023 Asutosh Panda. All Rights Reserved.
+© 2025 Asutosh Panda. All rights reserved.  
+*PS: This site has 0 trackers and 100% vibes.*
